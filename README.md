@@ -231,7 +231,7 @@ or Webull.
 
 ## Methodology Note
 
-The original thesis focused on gamification backlash across 2020 to 2025. Data 
+The original thesis focused on the backlash from 2020 to 2025. Data 
 availability shifted the scope to 2024 to 2026, which revealed a more current and 
 arguably more urgent story: Robinhood's expansion is happening on an unstable 
 reliability foundation.
@@ -241,3 +241,21 @@ The thesis evolved based on evidence — not the other way around.
 ---
 
 ## Project Structure
+
+robinhood-product-case-study/
+├── README.md
+├── notebooks/
+│   └── 01_robinhood_analysis.ipynb
+├── data/
+│   └── robinhood_reviews_raw.csv
+└── visuals/
+├── score_distribution.png
+├── monthly_rating_trend.png
+├── one_star_percentage.png
+├── wordcloud_negative.png
+├── topic_modeling.png
+├── topic_trends.png
+├── thumbs_by_topic.png
+└── priority_matrix.png
+
+---
