@@ -241,7 +241,7 @@ The thesis evolved based on evidence — not the other way around.
 ---
 
 ## Project Structure
-
+```
 robinhood-product-case-study/
 ├── README.md
 ├── notebooks/
@@ -257,5 +257,5 @@ robinhood-product-case-study/
 ├── topic_trends.png
 ├── thumbs_by_topic.png
 └── priority_matrix.png
-
+```
 ---
